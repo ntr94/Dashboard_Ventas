@@ -2,4 +2,5 @@
 Panel de Control sobre Ventas
 
 ## Introduction
-Prueba
+Primer proyecto de una serie de prácticas realizadas con diferentes programas para la realización de Paneles de Control.
+
