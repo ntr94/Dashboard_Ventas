@@ -6,7 +6,7 @@ Primer proyecto de una serie de prácticas realizadas con diferentes programas p
 
 Actualmente esta realizado con Excel y Power BI.
 
-[Excel](##Excel)
+[Excel](https://github.com/ntr94/Dashboard_Ventas/blob/main/README.md#excel)
 
 [Power BI](https://github.com/ntr94/Dashboard_Ventas/blob/main/README.md#power-bi)
 
@@ -20,7 +20,7 @@ Estos datos nos da información sobre la Región, Producto, Vendedor y Ventas, d
 A partir de estos datos se va realizar un panel de control interactivo para la visualización de los datos mostrados.
 
 
-##Excel
+## Excel
 
 <img src="Excel/Informe_Ventas_Excel.PNG" style="display: block; margin: auto;">
 
