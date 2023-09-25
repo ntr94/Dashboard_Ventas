@@ -6,9 +6,9 @@ Primer proyecto de una serie de prácticas realizadas con diferentes programas p
 
 Actualmente esta realizado con Excel y Power BI.
 
-[Excel](## Excel)
+[Excel](##Excel)
 
-[Power BI](## Power BI)
+[Power BI](##PowerBI)
 
 ## Explicación
 Este proyecto consiste en obtener un Panel de Control con los datos de ventas disponibles. Para ello utilizaremos diferentes programas para intertar realizar el mismo panel.
