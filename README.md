@@ -22,5 +22,5 @@ A partir de estos datos se va realizar un panel de control interactivo para la v
 
 ### Power BI
 
-<img src="Power BI/Infome_Ventas_PowerBI.PNG.PNG" style="display: block; margin: auto;">
+<img src="Power BI/Infome_Ventas_PowerBI.PNG" style="display: block; margin: auto;">
 
