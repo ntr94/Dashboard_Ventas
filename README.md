@@ -8,7 +8,7 @@ Actualmente esta realizado con Excel y Power BI.
 
 [Excel](##Excel)
 
-[Power BI](##PowerBI)
+[Power BI](https://github.com/ntr94/Dashboard_Ventas/blob/main/README.md#power-bi)
 
 ## Explicación
 Este proyecto consiste en obtener un Panel de Control con los datos de ventas disponibles. Para ello utilizaremos diferentes programas para intertar realizar el mismo panel.
