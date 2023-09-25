@@ -20,9 +20,10 @@ A partir de estos datos se va realizar un panel de control interactivo para la v
 
 <img src="Excel/Informe_Ventas_Excel.PNG" style="display: block; margin: auto;">
 
-[Excel](https://github.com/ntr94/Dashboard_Ventas/blob/main/Excel/Infome_Ventas_Excel.xlsx)
+[Archivo Excel](https://github.com/ntr94/Dashboard_Ventas/blob/main/Excel/Infome_Ventas_Excel.xlsx)
 
 ### Power BI
 
 <img src="Power BI/Infome_Ventas_PowerBI.PNG" style="display: block; margin: auto;">
 
+[Archivo Power BI](https://github.com/ntr94/Dashboard_Ventas/blob/main/Power%20BI/Infome_Ventas_PowerBI.pbix)
