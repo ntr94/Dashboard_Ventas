@@ -7,6 +7,7 @@ Primer proyecto de una serie de prácticas realizadas con diferentes programas p
 Actualmente esta realizado con Excel y Power BI.
 
 [Excel](## Excel)
+
 [Power BI](## Power BI)
 
 ## Explicación
