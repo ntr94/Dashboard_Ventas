@@ -15,6 +15,8 @@ Este proyecto consiste en obtener un Panel de Control con los datos de ventas di
 
 <img src="Ventas.PNG" style="display: block; margin: auto;">
 
+[Archivo Excel Original](https://github.com/ntr94/Dashboard_Ventas/blob/main/Ventas.xlsx)
+
 Estos datos nos da información sobre la Región, Producto, Vendedor y Ventas, de una empresa ficticia.
 
 A partir de estos datos se va realizar un panel de control interactivo para la visualización de los datos mostrados.
