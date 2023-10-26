@@ -33,3 +33,10 @@ A partir de estos datos se va realizar un panel de control interactivo para la v
 <img src="Power BI/Infome_Ventas_PowerBI.PNG" style="display: block; margin: auto;">
 
 [Archivo Power BI](https://github.com/ntr94/Dashboard_Ventas/blob/main/Power%20BI/Infome_Ventas_PowerBI.pbix)
+
+## Dashboard relacionados
+
+[Finanzas](https://github.com/ntr94/Dashboard_Finanzas)
+
+[Producción](https://github.com/ntr94/Dashboard_Produccion)
+
